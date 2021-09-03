@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ba264a76.chunk.css",
+    "main.js": "./static/js/main.dd8ae2fc.chunk.js",
+    "main.js.map": "./static/js/main.dd8ae2fc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.70dda37c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.70dda37c.js.map",
+    "static/js/2.eb28c509.chunk.js": "./static/js/2.eb28c509.chunk.js",
+    "static/js/2.eb28c509.chunk.js.map": "./static/js/2.eb28c509.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ba264a76.chunk.css.map": "./static/css/main.ba264a76.chunk.css.map",
+    "static/js/2.eb28c509.chunk.js.LICENSE.txt": "./static/js/2.eb28c509.chunk.js.LICENSE.txt",
+    "static/media/Project_1.8601d2b0.png": "./static/media/Project_1.8601d2b0.png",
+    "static/media/Project_2.92613c0a.png": "./static/media/Project_2.92613c0a.png",
+    "static/media/Project_3.75ef11fd.png": "./static/media/Project_3.75ef11fd.png",
+    "static/media/Project_5.0c4a85e2.png": "./static/media/Project_5.0c4a85e2.png",
+    "static/media/Project_6.cc0970d7.png": "./static/media/Project_6.cc0970d7.png",
+    "static/media/RSS.cf2b1ed3.png": "./static/media/RSS.cf2b1ed3.png",
+    "static/media/UPS.29ac1f6b.png": "./static/media/UPS.29ac1f6b.png",
+    "static/media/diego-card.0edc3d6f.png": "./static/media/diego-card.0edc3d6f.png",
+    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/foto1.a6c65268.jpg": "./static/media/foto1.a6c65268.jpg",
+    "static/media/style.css": "./static/media/foto1s.1b890bb2.jpg",
+    "static/media/holger-card.361c2a04.png": "./static/media/holger-card.361c2a04.png",
+    "static/media/ionicons.min.css": "./static/media/ionicons.fef568f6.ttf",
+    "static/media/julio-card.d913195d.png": "./static/media/julio-card.d913195d.png",
+    "static/media/logo.7795c8d7.png": "./static/media/logo.7795c8d7.png",
+    "static/media/logo_ai_ingles.b9bfd537.png": "./static/media/logo_ai_ingles.b9bfd537.png",
+    "static/media/mafer-card.f9fc3168.png": "./static/media/mafer-card.f9fc3168.png",
+    "static/media/paulina-card.aaeb66d5.png": "./static/media/paulina-card.aaeb66d5.png",
+    "static/media/proyectos.css": "./static/media/research_1.09103151.png",
+    "static/media/research_2.bfabbfe6.jpg": "./static/media/research_2.bfabbfe6.jpg",
+    "static/media/research_3.9f5ed5a6.png": "./static/media/research_3.9f5ed5a6.png",
+    "static/media/rss_file.b41452ef.xml": "./static/media/rss_file.b41452ef.xml",
+    "static/media/tufinio-card.a0f7be43.png": "./static/media/tufinio-card.a0f7be43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70dda37c.js",
+    "static/js/2.eb28c509.chunk.js",
+    "static/css/main.ba264a76.chunk.css",
+    "static/js/main.dd8ae2fc.chunk.js"
+  ]
+}
